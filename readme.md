@@ -16,6 +16,6 @@
 
 ## Contact :mailbox:
 
-- [LinkedIn][linkedin]
+- [![linkedin-icon](assets/icons/flaticon/linkedin_16.png) LinkedIn][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/neurothrone/
